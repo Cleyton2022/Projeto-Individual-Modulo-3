@@ -1,0 +1,94 @@
+{
+    "InfoTech": [
+      {
+        "id": 1,
+        "nome": "Processador i5 10º geração",
+        "descricao": "Intel i5 10° geração 10400f lga 1200",
+        "preco": 950.5,
+        "categoria_id": 1
+      },
+      {
+        "id": 2,
+        "nome": "Processador i9 10º geração",
+        "descricao": "Intel Core i9-10900K BX8070110900K de 10 núcleos",
+        "preco": 2800.5,
+        "categoria_id": 1
+      },
+      {
+        "id": 3,
+        "nome": "Placa de Vídeo GTX 1050 Ti Asus NVIDIA GeForce OC Cerberus",
+        "descricao": "4GB GDDR5 - CERBERUS-GTX1050TI-O4G.",
+        "preco": 1400.9,
+        "categoria_id": 1
+      },
+      {
+        "id": 4,
+        "nome": "Placa-Mãe Gigabyte Z690 Aorus Elite AX",
+        "descricao": "Intel LGA 1700, ATX, DDR4, M.2 NVMe, Wi-Fi, (rev. 1.0).",
+        "preco": 2599.9,
+        "categoria_id": 1
+      },
+      {
+        "id": 5,
+        "nome": "Notebook XPS 13 Plus",
+        "descricao": "12ª geração Intel® Core™ i7-1260P (12-core, cache de 18MB, até 4.7 GHz)",
+        "preco": 13798,
+        "categoria_id": 2
+      },
+      {
+        "id": 6,
+        "nome": "PC GAMER FPS HEADSHOT",
+        "descricao": "Processador Intel Core i9 10900K Cache 20MB 3.7GHz LGA 1200",
+        "preco": 10622.5,
+        "categoria_id": 2
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8,
+        "nome": "WINDOWS SERVER 2022 STANDARD",
+        "descricao": "Licença Nova válida para 1 servidor. Esta licença é compativel para 1 servidor fisico com no máximo 16 cores + 2 VMs.  Consulte seu setup de hardware para podermos auxiliar na escolha do produto.Produto de distribuição comercial. Já contem 25 cals de Acesso.",
+        "preco": 3500.5,
+        "categoria_id": 3
+      }
+    ],
+    "categorias": [
+      {
+        "id": 1,
+        "nome": "componentes"
+      },
+      {
+        "id": 2,
+        "nome": "pc/notebook"
+      },
+      {
+        "id": 3,
+        "nome": "sistemas"
+      },
+      { "id":4,
+        "nome":"funcionarios"}
+    ],
+  
+    "Funcionarios": [
+  {
+  "id":1,
+  "nome": "Cleyton",
+  "nascimento": "07/12/1999",
+  "cnpj": "1234567891011",
+  "função":"Fundador",
+  "categoria_id": 4
+  
+  },
+  {
+  "id":2,
+  "nome":"",
+  "nascimento":"00/00/0000",
+  "Nºserie carteira de trabalho":"",
+  "função": "",
+  "categoria_id": 4
+  }
+  
+  
+    ]
+  }

@@ -1,0 +1,24 @@
+{
+  "name": "projeto-individual-modulo-3",
+  "version": "1.0.0",
+  "description": "Servidor JSON (JSON-servidor) onde contém 3 rotas com 8+ dados contendo (GET, POST, PUT, DELETE). O projeto se trata de uma loja de Informática, que até então vende uns componentes para montagem e o computador já montado. O projeto foi inserido no servidor Postman, na qual é possível manusear por completo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "json-server --watch db.json --port 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cleyton2022/Projeto-Individual-Modulo-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cleyton2022/Projeto-Individual-Modulo-3/issues"
+  },
+  "homepage": "https://github.com/Cleyton2022/Projeto-Individual-Modulo-3#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
